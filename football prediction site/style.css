@@ -1,0 +1,70 @@
+style.css
+/*STYLE RESET ENDS*/
+html, body, h1, h2, h3, h4, h5, h6, p, ol, ul, li, pre, code, address, variable, form, fieldset, blockquote {
+padding:0;
+margin:0;
+font-size:100%;
+font-weight:normal;
+}
+table {border-collapse: collapse; border-spacing: 0; }
+td, th, caption { font-weight:normal; text-align:left; }
+img, fieldset { border:0; }
+ol { padding:0; margin:0; list-style:none; }
+ul { padding:0; margin: 0; list-style:none; }
+q:before, q:after { content:''; }
+img{max-height:700px; max-width:400px;}
+border{color:white;}
+/*STYLES RESET ENDS*/
+	body {
+		background:url('images/white2.jpg');
+		}
+		#wrapper {
+			width: 960px;
+			margin-top: 0;
+			margin-right: auto;
+			margin-bottom: 0;
+			margin-left: auto;
+			border: 6px solid;
+			color:white;
+			}
+			h1 {
+				margin-left: 10px;
+				margin-top: 20px;
+				margin-bottom: 30px;
+				color: green;
+				font-size: 50px;
+				text-align: center;
+				border: 5px solid;
+				}
+				#nav a {
+					text-decoration: none;
+					margin-bottom: 20px;
+					margin-right: 20px;
+					color: red;
+					text-align: center;
+					font-family: sarsfield;
+					}
+					#body, p {
+						color:green;
+						<--color: rgb(200,200,200);
+						font-size: 20px;
+						}
+							#copyright {
+								margin-top: 20px;
+								color: red;
+								font-size: 20px;
+								}
+								h2 {
+									margin-left: 10px;
+				                    margin-top: 20px;
+				                    margin-bottom: 30px;
+				                    color:gold;
+				                    font-size: 50px;
+				                    text-align: center;
+								 
+									}
+						         h4 {
+									
+				                    color:black;
+				                   
+								 }
